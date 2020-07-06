@@ -1,0 +1,64 @@
+{
+  "uid" : "21af75c45ffae281",
+  "name" : "main heading displayed? ",
+  "fullName" : "blaze page elements handle on the page.main heading displayed? ",
+  "historyId" : "7deb00b27950da5cff51c3a249420fd0",
+  "time" : {
+    "start" : 1594018446838,
+    "stop" : 1594018456896,
+    "duration" : 10058
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "broken",
+  "statusMessage" : "Can't call getText on element with selector \"h2.home_title\" because element wasn't found",
+  "statusTrace" : "Error: Can't call getText on element with selector \"h2.home_title\" because element wasn't found\n                    at implicitWait (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\webdriverio\\build\\utils\\implicitWait.js:22:13)\n                    at async Element.elementErrorHandlerCallbackFn (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\webdriverio\\build\\middlewares.js:17:23)\n                    at async Element.runCommandWithHooks (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:88:21)\n                    at Element.runCommandWithHooks (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:82:22)\n                    at Element.wrapCommandFn (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\@wdio\\sync\\build\\wrapCommand.js:59:40)\n                    at Element.elementErrorHandlerCallback (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\webdriverio\\build\\middlewares.js:40:8)\n                    at Context.<anonymous> (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\test\\BlazeTest.js:22:73)\n                    at Context.executeSync (D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\@wdio\\sync\\build\\index.js:56:18)\n                    at D:\\WebdriverIOWorkspace\\WebdriverIO_POM\\node_modules\\@wdio\\sync\\build\\index.js:82:70",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "blaze page elements handle on the page"
+  }, {
+    "name" : "testClass",
+    "value" : "blaze page elements handle on the page"
+  }, {
+    "name" : "testMethod",
+    "value" : "main heading displayed? "
+  }, {
+    "name" : "package",
+    "value" : "blaze page elements handle on the page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Test defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "21af75c45ffae281.json",
+  "parameterValues" : [ "chrome" ]
+}

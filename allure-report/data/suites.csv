@@ -1,0 +1,7 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"broken","Mon Jul 06 12:24:16 IST 2020","Mon Jul 06 12:24:26 IST 2020","10054","","blaze page elements handle on the page","","blaze page elements handle on the page","main heading enabled? ","main heading enabled? ",""
+"passed","Mon Jul 06 12:24:27 IST 2020","Mon Jul 06 12:24:27 IST 2020","39","","blaze page elements handle on the page","","blaze page elements handle on the page","jmeter is displeyd in view port ","jmeter is displeyd in view port ",""
+"passed","Mon Jul 06 12:23:55 IST 2020","Mon Jul 06 12:24:06 IST 2020","11080","","blaze page elements handle on the page","","blaze page elements handle on the page","get texts of all main links","get texts of all main links",""
+"broken","Mon Jul 06 12:24:06 IST 2020","Mon Jul 06 12:24:16 IST 2020","10058","","blaze page elements handle on the page","","blaze page elements handle on the page","main heading displayed? ","main heading displayed? ",""
+"passed","Mon Jul 06 12:24:26 IST 2020","Mon Jul 06 12:24:27 IST 2020","49","","blaze page elements handle on the page","","blaze page elements handle on the page","main heading exists? ","main heading exists? ",""
+"passed","Mon Jul 06 12:24:27 IST 2020","Mon Jul 06 12:24:27 IST 2020","35","","blaze page elements handle on the page","","blaze page elements handle on the page","main heading displyed in view port? ","main heading displyed in view port? ",""

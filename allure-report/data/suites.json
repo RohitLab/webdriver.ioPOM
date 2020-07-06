@@ -1,0 +1,87 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "blaze page elements handle on the page",
+    "children" : [ {
+      "name" : "get texts of all main links",
+      "uid" : "e1947a985e2ae315",
+      "parentUid" : "7102bdd4aac869bb57feb3a560be47c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594018435758,
+        "stop" : 1594018446838,
+        "duration" : 11080
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "main heading displayed? ",
+      "uid" : "21af75c45ffae281",
+      "parentUid" : "7102bdd4aac869bb57feb3a560be47c7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594018446838,
+        "stop" : 1594018456896,
+        "duration" : 10058
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "main heading enabled? ",
+      "uid" : "90a675f43228cb3c",
+      "parentUid" : "7102bdd4aac869bb57feb3a560be47c7",
+      "status" : "broken",
+      "time" : {
+        "start" : 1594018456897,
+        "stop" : 1594018466951,
+        "duration" : 10054
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "main heading exists? ",
+      "uid" : "d4af7261e63d3371",
+      "parentUid" : "7102bdd4aac869bb57feb3a560be47c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594018466952,
+        "stop" : 1594018467001,
+        "duration" : 49
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "main heading displyed in view port? ",
+      "uid" : "db2867c58b8b4395",
+      "parentUid" : "7102bdd4aac869bb57feb3a560be47c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594018467001,
+        "stop" : 1594018467036,
+        "duration" : 35
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    }, {
+      "name" : "jmeter is displeyd in view port ",
+      "uid" : "ef584cb5966e1aa4",
+      "parentUid" : "7102bdd4aac869bb57feb3a560be47c7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1594018467036,
+        "stop" : 1594018467075,
+        "duration" : 39
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "chrome" ]
+    } ],
+    "uid" : "7102bdd4aac869bb57feb3a560be47c7"
+  } ]
+}
